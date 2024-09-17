@@ -1,5 +1,7 @@
 class Simple{  
     public static void main(String args[]){  
      System.out.println("Hello Java");  
-    }  
+     System.out.println("who created you, what made you so special, n also why are you so tough to learn,koosintha ardam kavacchu ga"), 
+ 
+ }  
 }  
