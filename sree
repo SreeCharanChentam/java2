@@ -1,6 +1,13 @@
 class Simple{  
     public static void main(String args[]){  
+<<<<<<< HEAD
      System.out.println("Hello Java"); 
      System.out.println("hey java, y r u so tough, chin tapaak dum dum") ;
     }  
+=======
+     System.out.println("Hello Java");  
+     System.out.println("who created you, what made you so special, n also why are you so tough to learn,koosintha ardam kavacchu ga"), 
+ 
+ }  
+>>>>>>> 3533f8b414f806203f5bb8b9b522f4a28016b522
 }  
